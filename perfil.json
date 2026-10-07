@@ -1,0 +1,35 @@
+{
+  "usuario": "",
+  "idioma": "en",
+  "minusculas": true,
+  "nacimiento": "",
+  "ascii_fuente": 10,
+  "ascii_degrade": true,
+  "lenguajes_ignorar": ["HTML", "CSS", "Jupyter Notebook"],
+  "secciones": [
+    {
+      "campos": [
+        ["OS", "Windows 11"],
+        ["Uptime", "{uptime}"],
+        ["Host", "Argentina"],
+        ["Kernel", "Software dev"],
+        ["IDE", "VS Code"]
+      ]
+    },
+    {
+      "campos": [
+        ["Languages", "{lenguajes}"],
+        ["Speaks", "English, Spanish"],
+        ["Hobbies", "Videogames, Anime"],
+        ["Birthday", "October 30"]
+      ]
+    },
+    {
+      "titulo": "Contact",
+      "campos": [
+        ["Email", "qlvxro@gmail.com"],
+        ["Discord", "qlvxro"]
+      ]
+    }
+  ]
+}
